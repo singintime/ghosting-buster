@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ghosting-buster/static/css/main.85e31e70.css",
+    "main.js": "/ghosting-buster/static/js/main.e0c6f65d.js",
+    "static/js/453.97652132.chunk.js": "/ghosting-buster/static/js/453.97652132.chunk.js",
+    "index.html": "/ghosting-buster/index.html",
+    "main.85e31e70.css.map": "/ghosting-buster/static/css/main.85e31e70.css.map",
+    "main.e0c6f65d.js.map": "/ghosting-buster/static/js/main.e0c6f65d.js.map",
+    "453.97652132.chunk.js.map": "/ghosting-buster/static/js/453.97652132.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85e31e70.css",
+    "static/js/main.e0c6f65d.js"
+  ]
+}
